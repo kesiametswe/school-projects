@@ -1,2 +1,2 @@
 # school-projects
-All my major school projects which demonstrate my proficiency in Java and SQL
+All my major high school information technology (IT) projects created between 2022 - 2024 which demonstrate my proficiency in Java and SQL.
