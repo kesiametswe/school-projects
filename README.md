@@ -20,7 +20,8 @@ A simple maths game is created using java message dialog boxes as an interface f
 
 #### summary
 A [semi-successful] attempt at reproducing the infamous Wordle game in Java. Users can create accounts using the Java UI which are then stored in a MS Access database and simply login thereafter. A class (User.java) temporarily stores user data (games played, password, username highscore etc) to sent to above mentioned database. A .csv file containing 500 4 letter words is called randomly select a 4 letter word for the user to guess. The correct letters in incorrect positions and correct letters in correct positions are marked to guide the user. 
- * the project is only "semi-successful" because integration of the SQL database and Java application failed and so did the "restart game" function as the previous lettering does not always clear unless one exits and re-runs the programme.
+
+_the project is only "semi-successful" because integration of the SQL database and Java application failed and so did the "restart game" function as the previous lettering does not always clear unless one exits and re-runs the programme._
  
 
 #### This project demonstrates my ability in:
@@ -31,3 +32,14 @@ A [semi-successful] attempt at reproducing the infamous Wordle game in Java. Use
 - Class importation and integration
 - Java UI interface design
 - Integration of backend and frontend classes
+
+### [UN Sustainable City Creation Tool](https://github.com/kesiametswe/school-projects/blob/main/PAT_Kesi_2024_085034.zip)
+
+_folder was too large to upload at one go. So, due to pure laziness, I just zipped it and uploaded it_
+
+#### summary
+
+## Final Notes
+
+#### This project demonstrates my ability in:
+
